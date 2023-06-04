@@ -1,1 +1,1 @@
-https://gist.githubusercontent.com/hdboye/578bf9d799364b9b489c1ae5687a6bae/raw/a713f845c52640e6010f5180c034754ac98ed6d4/ClientSettings.json
+https://hdboye.github.io/curRCO/ClientSettings.json
